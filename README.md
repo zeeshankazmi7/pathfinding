@@ -1,0 +1,1 @@
+This project is a Python-based city pathfinding tool that helps users find paths and calculate distances between various cities using different search algorithms. The cities available are primarily from the United Kingdom. The project demonstrates the implementation of depth-first search (DFS), breadth-first search (BFS), A* search, and Dijkstra's algorithm for pathfinding.
