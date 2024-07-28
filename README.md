@@ -1,4 +1,4 @@
-This project is a Python-based city pathfinding tool that helps users find routes and calculate distances between various cities in the UK using different search algorithms.
+This program is a Python-based pathfinding tool that helps users find routes and calculate distances between various cities in the UK using different search algorithms.
 
 Features:
   - Search algorithms: depth-first search (DFS), breadth-first search (BFS), A* search, Dijkstra's algorithm
