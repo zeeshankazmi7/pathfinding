@@ -5,9 +5,11 @@ Features:
   - Predefined list of cities: Manchester, Holyhead, Liverpool, York, Carlisle, Newcastle, Glasgow, Edinburgh, Oban, Aberdeen, Inverness
   - Dictionary defining distnaces between cities
 
+
 Prerequisites:
   - Python 3 is required to run the code
   - The `heapq` library is used for the A* and Dijkstra algorithms and is included in the Python Standard Library
+
 
 How To Use:
   - Execute the code in a Python environment
